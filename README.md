@@ -11,7 +11,7 @@ Admin Dashboard: The application provides municipal administrators with a compre
 
 Real-Time Updates: The admin dashboard not only displays the location of reported problems but also provides real-time updates on their status. Municipal authorities can monitor ongoing resolutions and ensure timely responses.
 
-Emergency Alert System: To handle urgent issues promptly, Smart Municipality incorporates an emergency alert system. Citizens can flag problems as emergencies, triggering an immediate notification to the admin dashboard, ensuring quick actions in critical situations.
+Emergency Alert System: Smart Municipality can view an emergency issues seperately, giving them more preferences.
 
 Letter Format Generation: The application generates letter formats for each reported problem, making it convenient for municipal authorities to document and track the issues for future reference.
 
