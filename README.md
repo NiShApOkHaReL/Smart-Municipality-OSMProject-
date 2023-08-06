@@ -17,7 +17,7 @@ Letter Format Generation: The application generates letter formats for each repo
 
 
 ## Team Members:
-### Athiti Aryal - Role: UI/UX Designer
+### Athiti Aryal - Role: Frontend Developer
 ### Garima Paudel - Role: Backend Developer
 ### Nisha Pokharel - Role: Backend Developer
 ### Pradip Subedi - Role: OpenStreetMap Integration
