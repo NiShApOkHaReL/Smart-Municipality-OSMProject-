@@ -17,9 +17,11 @@ Letter Format Generation: The application generates letter formats for each repo
 
 
 ## Team Members:
-### Athiti Aryal - Role: Frontend Developer
-### Garima Paudel - Role: Backend Developer
-### Nisha Pokharel - Role: Backend Developer
-### Pradip Subedi - Role: OpenStreetMap Integration
+Athiti Aryal - Role: Frontend Developer
+Garima Paudel - Role: Backend Developer
+Nisha Pokharel - Role: Backend Developer
+Pradip Subedi - Role: OpenStreetMap Integration
 
 ## Smart Municipality secured the runner-up position in the "OSM HackFest-2023," showcasing its effectiveness in fostering citizen engagement, enhancing municipal governance, and leveraging open-source geospatial technology for the betterment of urban communities.
+
+
