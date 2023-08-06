@@ -1,9 +1,9 @@
 # Smart Municipality - OSM HackFest-2023 Runner Up
 
-Project Description:
+## Project Description:
 Smart Municipality is an award-winning web application developed by our skilled team of four members during the "OSM HackFest-2023." This innovative project is designed to streamline communication between citizens and the municipal authorities, using PHP, HTML, Tailwind CSS, and the powerful integration of OpenStreetMap (OSM).
 
-Key Features:
+## Key Features:
 
 Interactive Problem Reporting: Smart Municipality empowers citizens to report issues and concerns in their neighborhood through a user-friendly web page. Citizens can pinpoint the problem location on the OSM map using latitude and longitude, making it easier for the municipality to identify and address the reported issues.
 
@@ -16,10 +16,10 @@ Emergency Alert System: To handle urgent issues promptly, Smart Municipality inc
 Letter Format Generation: The application generates letter formats for each reported problem, making it convenient for municipal authorities to document and track the issues for future reference.
 
 
-Team Members:
-Athiti Aryal - Role: UI/UX Designer
-Garima Paudel - Role: Backend Developer
-Nisha Pokharel - Role: Backend Developer
-Pradip Subedi - Role: OpenStreetMap Integration
+## Team Members:
+### Athiti Aryal - Role: UI/UX Designer
+### Garima Paudel - Role: Backend Developer
+### Nisha Pokharel - Role: Backend Developer
+### Pradip Subedi - Role: OpenStreetMap Integration
 
-Smart Municipality secured the runner-up position in the "OSM HackFest-2023," showcasing its effectiveness in fostering citizen engagement, enhancing municipal governance, and leveraging open-source geospatial technology for the betterment of urban communities.
+# Smart Municipality secured the runner-up position in the "OSM HackFest-2023," showcasing its effectiveness in fostering citizen engagement, enhancing municipal governance, and leveraging open-source geospatial technology for the betterment of urban communities.
